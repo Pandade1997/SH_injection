@@ -1,0 +1,3 @@
+这是ShcAssisted_icassp2024论文中，GCRN这个baseline的代码
+
+最后的实验结果来自于train_gcrn_mini.py

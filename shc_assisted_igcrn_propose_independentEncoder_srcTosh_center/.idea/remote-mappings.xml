@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://imu_panjiahui@10.3.13.9:22/home/imu_panjiahui/.conda/envs/gcrn/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/imu_panjiahui/SHdomain_3_Introducing_SHC/shc_assisted_igcrn_propose_independentEncoder_srcTosh_center" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
